@@ -51,7 +51,7 @@ body{
 }
 
 .bordered-columns:hover{
-    background-color: gray;
+    background-color: cornflowerblue;
 }
 
 .bordered-columns:hover a{
@@ -62,6 +62,14 @@ body{
     color: black;
 }
 
+a .bordered-columns{
+    color: white;
+}
+
+a .bordered-columns:hover{
+    color: black;
+}
+
 .col-left{
     float: left;
 }
@@ -69,6 +77,7 @@ body{
 .col-right{
     float: right;
 }
+
 
 /*Image stylings*/
 .profile-pic{
