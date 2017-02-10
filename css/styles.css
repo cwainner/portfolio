@@ -63,3 +63,8 @@ body{
 .col-right{
     float: right;
 }
+
+.img-border{
+    border-radius: 15px;
+    float: left;
+}
