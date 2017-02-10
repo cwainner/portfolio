@@ -79,8 +79,12 @@ body{
 .img-border{
     border-radius: 15px;
     float: left;
-    max-height: 100px;
-    max-width: 100px;
+    max-height: 50px;
+    max-width: 50px;
+}
+
+.project-img{
+    margin: 5px;
 }
 
 /*Font stylings*/
