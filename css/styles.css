@@ -1,6 +1,6 @@
 /*Base stylings*/
 html { 
-  background: linear-gradient(dimgray, black) no-repeat center center fixed; 
+  background: linear-gradient(dimgray, darkslategray) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -14,11 +14,6 @@ body{
 
 /*Navbar stylings*/
 .nav li a{
-    color: white;
-}
-
-.nav-tabs li.active a{
-    background: dodgerblue;
     color: white;
 }
 
@@ -43,7 +38,7 @@ body{
     border-radius: 20px;
     text-align: center;
     text-decoration: none;
-    background-color: blue;
+    background-color: #0073e6;
 }
 
 .bordered-columns h2{
@@ -94,9 +89,21 @@ a .bordered-columns:hover{
 
 .project-img{
     margin: 5px;
+    border-radius: 10px;
+}
+
+.couple-img{
+    max-width: 300px;
+    margin: 20px;
+    border-radius: 10px;
 }
 
 /*Font stylings*/
 .des-bold{
     font-weight: bold;
+}
+
+em{
+    font-family: helvetica;
+    font-size: 16px;
 }
