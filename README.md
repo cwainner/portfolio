@@ -11,9 +11,9 @@ _A portfolio page designed to showcase my projects, and provide a bit of backgro
 ## Setup/Installation Requirements
 
 _Please make sure all files are in the correct folder:_
-_html files should be in the top folder_
-_css files should be in the css folder_
-_any images should be in the img folder_
+_html files should be in the top folder,_
+_css files should be in the css folder,_
+_any images should be in the img folder._
 
 ## Known Bugs
 
@@ -31,6 +31,6 @@ _Boostrap_
 
 ### License
 
-*MIT License
+*MIT License*
 
 Copyright (c) 2017 **_Chris Wainner_**

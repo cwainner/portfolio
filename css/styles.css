@@ -8,22 +8,6 @@ body{
     background-size: cover;
 }
 
-.navbar{
-    
-}
-
-.navbar ul{
-    
-}
-
-.navbar li{
-    
-}
-
-.navbar li:hover{
-
-}
-
-.jumbotron{
-    margin-top: 100px;
+.jumbotron h1{
+    font-family: Helvetica;
 }
