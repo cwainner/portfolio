@@ -98,6 +98,11 @@ a .bordered-columns:hover{
     border-radius: 10px;
 }
 
+.home-links{
+    max-height: 200px;
+    margin: 5px;
+}
+
 /*Font stylings*/
 .des-bold{
     font-weight: bold;
