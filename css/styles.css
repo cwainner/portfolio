@@ -1,9 +1,18 @@
+/*Base stylings*/
+html { 
+  background: linear-gradient(dimgray, black) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body{
-    background: linear-gradient(darkslategray, black) no-repeat center center;
-    background-size: cover;
+    background: inherit;
     color: white;
 }
 
+/*Navbar stylings*/
 .nav li a{
     color: white;
 }
@@ -18,6 +27,7 @@ body{
     background: dodgerblue;
 }
 
+/*Jumbotron stylings*/
 .jumbotron{
     background: inherit;
     color: white;
@@ -27,6 +37,7 @@ body{
     font-family: Helvetica;
 }
 
+/*Bordered column stylings for the info cubes*/
 .bordered-columns{
     border: 2px solid black;
     border-radius: 20px;
@@ -51,11 +62,6 @@ body{
     color: black;
 }
 
-.profile-pic{
-    border-radius: 20px;
-    margin-bottom: 20px;
-}
-
 .col-left{
     float: left;
 }
@@ -64,7 +70,20 @@ body{
     float: right;
 }
 
+/*Image stylings*/
+.profile-pic{
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
 .img-border{
     border-radius: 15px;
     float: left;
+    max-height: 100px;
+    max-width: 100px;
+}
+
+/*Font stylings*/
+.des-bold{
+    font-weight: bold;
 }
