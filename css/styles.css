@@ -1,10 +1,26 @@
 body{
-    background: linear-gradient(white, slategray) no-repeat center center;
+    background: linear-gradient(darkslategray, black) no-repeat center center;
     background-size: cover;
+    color: white;
+}
+
+.nav li a{
+    color: white;
+}
+
+.nav-tabs li.active a{
+    background: dodgerblue;
+    color: white;
+}
+
+.nav li a:hover{
+    color: white;
+    background: dodgerblue;
 }
 
 .jumbotron{
     background: inherit;
+    color: white;
 }
 
 .jumbotron h1{
@@ -24,7 +40,7 @@ body{
 }
 
 .bordered-columns:hover{
-    background-color: deepskyblue;
+    background-color: gray;
 }
 
 .bordered-columns:hover a{
@@ -38,4 +54,12 @@ body{
 .profile-pic{
     border-radius: 20px;
     margin-bottom: 20px;
+}
+
+.col-left{
+    float: left;
+}
+
+.col-right{
+    float: right;
 }
