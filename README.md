@@ -1,7 +1,7 @@
 # _Chris Wainner's Portfolio_
 
 ### _A portfolio page, Feb. 10, 2017_
-    _Link to portfolio: https://cwainner.github.io/portfolio/_
+    Link to portfolio: https://cwainner.github.io/portfolio/
 
 #### By _Chris Wainner_
 
