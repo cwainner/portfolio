@@ -1,6 +1,6 @@
 /*Base stylings*/
-html { 
-  background: linear-gradient(dimgray, darkslategray) no-repeat center center fixed; 
+html {
+  background: linear-gradient(dimgray, darkslategray) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -8,107 +8,107 @@ html {
 }
 
 body{
-    background: inherit;
-    color: white;
+  background: inherit;
+  color: white;
 }
 
 /*Navbar stylings*/
 .nav li a{
-    color: white;
+  color: white;
 }
 
 .nav li a:hover{
-    color: white;
-    background: dodgerblue;
+  color: white;
+  background: dodgerblue;
 }
 
 /*Jumbotron stylings*/
 .jumbotron{
-    background: inherit;
-    color: white;
+  background: inherit;
+  color: white;
 }
 
 .jumbotron h1{
-    font-family: Helvetica;
+  font-family: Helvetica;
 }
 
 /*Bordered column stylings for the info cubes*/
 .bordered-columns{
-    border: 2px solid black;
-    border-radius: 20px;
-    text-align: center;
-    text-decoration: none;
-    background-color: #0073e6;
+  border: 2px solid black;
+  border-radius: 20px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #0073e6;
 }
 
 .bordered-columns h2{
-    color: white;
+  color: white;
 }
 
 .bordered-columns:hover{
-    background-color: cornflowerblue;
+  background-color: cornflowerblue;
 }
 
 .bordered-columns:hover a{
-    text-decoration: none;
+  text-decoration: none;
 }
 
 .bordered-columns:hover h2{
-    color: black;
+  color: black;
 }
 
 a .bordered-columns{
-    color: white;
+  color: white;
 }
 
 a .bordered-columns:hover{
-    color: black;
+  color: black;
 }
 
 .col-left{
-    float: left;
+  float: left;
 }
 
 .col-right{
-    float: right;
+  float: right;
 }
 
 
 /*Image stylings*/
 .profile-pic{
-    border-radius: 20px;
-    margin-bottom: 20px;
+  border-radius: 20px;
+  margin-bottom: 20px;
 }
 
 .img-border{
-    border-radius: 15px;
-    float: left;
-    max-height: 50px;
-    max-width: 50px;
+  border-radius: 15px;
+  float: left;
+  max-height: 50px;
+  max-width: 50px;
 }
 
 .project-img{
-    margin: 5px;
-    border-radius: 10px;
+  margin: 5px;
+  border-radius: 10px;
 }
 
 .couple-img{
-    max-width: 300px;
-    margin: 20px;
-    border-radius: 10px;
+  max-width: 300px;
+  margin: 20px;
+  border-radius: 10px;
 }
 
 .home-links{
-    max-height: 200px;
-    margin: 5px;
+  max-height: 200px;
+  margin: 5px;
 }
 
 /*Font stylings*/
 .des-bold{
-    font-weight: bold;
+  font-weight: bold;
 }
 
 em{
-    font-family: helvetica;
-    font-size: 16px;
+  font-family: helvetica;
+  font-size: 16px;
 }

@@ -1,6 +1,7 @@
 # _Chris Wainner's Portfolio_
 
 ### _A portfolio page, Feb. 10, 2017_
+    _Link to portfolio: https://cwainner.github.io/portfolio/_
 
 #### By _Chris Wainner_
 
@@ -10,10 +11,12 @@ _A portfolio page designed to showcase my projects, and provide a bit of backgro
 
 ## Setup/Installation Requirements
 
-_Please make sure all files are in the correct folder:_
+_Download/clone project from Github (git clone https://github.com/cwainner/portfolio.git)_
 _html files should be in the top folder,_
 _css files should be in the css folder,_
 _any images should be in the img folder._
+_Switch to top folder (will be portfolio/)_
+_open index.html from portfolio folder._
 
 ## Known Bugs
 
