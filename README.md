@@ -24,8 +24,6 @@ _None._
 
 ## Support and contact details
 
-_Please send any requests to chris.jwainner@gmail.com_
-
 ## Technologies used
 
 _HTML_
